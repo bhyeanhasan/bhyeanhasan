@@ -5,4 +5,4 @@
 
 
 ##### More about me
-[<img src="https://img.shields.io/badge/my website-555555?style=for-the-badge&logo=Github&logoColor=000000&labelColor=red">](https://www.bhyeanhasan.me/)  
+[<img src="https://img.shields.io/badge/my website-555555?style=for-the-badge&logo=Github&logoColor=000000&labelColor=red">](https://bhyeanhasan.github.io)  
