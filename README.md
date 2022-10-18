@@ -17,7 +17,7 @@
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/sudiptob2?color=green&logo=github">
   </a>
   <a href="https://github.com/sudiptob2/">
-    <img src="https://komarev.com/ghpvc/?username=sudiptob2" alt="visitors" />
+    <img src="https://komarev.com/ghpvc/?username=bhyeanhasan" alt="visitors" />
   </a>
 
 </p>
