@@ -1,6 +1,6 @@
 <table style="border-collapse: collapse; border: none;">
      <tr>
-        <td style="width: 65%">
+        <td width="65%">
             <h1 style="margin-top: 0;margin-bottom: 0px"> MD. BABUL HASAN (NOYON)</h1>
             <p style="font-size: 18px">
                 Intern Software Engineer (Backend & Machine Learning)<br>
@@ -8,7 +8,7 @@
             </p>
         </td>
         <td>
-            <img src="analyst.gif" alt="Analyst">
+            <img  src="analyst.gif" alt="Analyst">
         </td>
     </tr>
 </table>
@@ -16,11 +16,10 @@
 <h1 style="margin-top: 0px" align="center">
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bhyeanhasan&theme=default)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=bhyeanhasan&theme=default) &nbsp;&nbsp;![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=bhyeanhasan&theme=default&utcOffset=8)
-
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=bhyeanhasan&theme=default)
+&nbsp;&nbsp;![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=bhyeanhasan&theme=default&utcOffset=8)
 
 <a href="https://github.com/bhyeanhasan/"><img src="https://komarev.com/ghpvc/?username=bhyeanhasan" alt="visitors" /></a>
-
 
 
 [//]: # (![]&#40;https://github-readme-stats.vercel.app/api?username=bhyeanhasan&show_icons=true&theme=tokyonight&#41;)
