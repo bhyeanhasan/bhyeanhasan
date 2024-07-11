@@ -1,6 +1,6 @@
 <table style="border-collapse: collapse; border: none;">
      <tr>
-        <td width="65%">
+        <td width="55%">
             <h1 align="center" style="margin-top: 0;margin-bottom: 0px"> MD. BABUL HASAN (NOYON)</h1>
             <h3 align="center">
                 Intern Software Engineer<br> (Backend & Machine Learning)<br>
