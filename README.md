@@ -1,10 +1,12 @@
 <table style="border-collapse: collapse; border: none;">
      <tr>
         <td width="65%">
-            <h1 style="margin-top: 0;margin-bottom: 0px"> MD. BABUL HASAN (NOYON)</h1>
-            <h3>
-                Intern Software Engineer (Backend & Machine Learning)<br>
-                Research Assistant (Data Science, Deep Learning)
+            <h1 align="center" style="margin-top: 0;margin-bottom: 0px"> MD. BABUL HASAN (NOYON)</h1>
+            <h3 align="center">
+                Intern Software Engineer<br> (Backend & Machine Learning)<br>
+            </h3>
+<h3 align="center">
+                Research Assistant <br>(Data Science, Deep Learning)
             </h3>
         </td>
         <td>
