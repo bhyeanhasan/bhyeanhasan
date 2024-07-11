@@ -2,10 +2,10 @@
      <tr>
         <td width="65%">
             <h1 style="margin-top: 0;margin-bottom: 0px"> MD. BABUL HASAN (NOYON)</h1>
-            <h6>
+            <p style="font-size: larger;font-weight: bold">
                 Intern Software Engineer (Backend & Machine Learning)<br>
                 Research Assistant(Data Science, Deep Learning)
-            </h6>
+            </p>
         </td>
         <td>
             <img  src="analyst.gif" alt="Analyst">
