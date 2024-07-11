@@ -1,18 +1,32 @@
-<h2 align="center">
-<a href="https://github.com/bhyeanhasan">
-<img src="https://readme-typing-svg.demolab.com?font=Times+New+Roman&weight=1000&size=36&pause=600&color=e24343&center=true&vCenter=true&multiline=true&width=435&height=55&lines=Hi+There,+Welcome" alt="Typing SVG" /></a></h2>
+<table style="border-collapse: collapse; border: none;">
+     <tr>
+        <td style="width: 65%">
+            <h1 style="margin-top: 0;margin-bottom: 0px"> MD. BABUL HASAN (NOYON)</h1>
+            <p style="font-size: 18px">
+                Intern Software Engineer (Backend & Machine Learning)<br>
+                Research Assistant (Data Science, Deep Learning)
+            </p>
+        </td>
+        <td>
+            <img src="analyst.gif" alt="Analyst">
+        </td>
+    </tr>
+</table>
 
-# MD. BABUL HASAN (NOYON)
+<h1 style="margin-top: 0px" align="center">
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bhyeanhasan&theme=default)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=bhyeanhasan&theme=default) &nbsp;&nbsp;![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=bhyeanhasan&theme=default&utcOffset=8)
+
 
 <a href="https://github.com/bhyeanhasan/"><img src="https://komarev.com/ghpvc/?username=bhyeanhasan" alt="visitors" /></a>
-<h1 align="center">
 
 
-![](https://github-readme-stats.vercel.app/api?username=bhyeanhasan&show_icons=true&theme=tokyonight)
 
-[<img src="https://img.shields.io/badge/portfolio-555555?style=for-the-badge&logo=Github&logoColor=000000&labelColor=red">](https://bhyeanhasan.github.io) 
-[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/bhyeanhasan) 
-[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">](mailto:bhyean@gmail.com) 
-[<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white">](https://www.facebook.com/bhyeanhasan/) 
+[//]: # (![]&#40;https://github-readme-stats.vercel.app/api?username=bhyeanhasan&show_icons=true&theme=tokyonight&#41;)
+[<img src="https://img.shields.io/badge/portfolio-555555?style=for-the-badge&logo=Github&logoColor=000000&labelColor=red">](https://bhyeanhasan.github.io)
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/bhyeanhasan)
+[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">](mailto:bhyean@gmail.com)
+[<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white">](https://www.facebook.com/bhyeanhasan/)
 
 </h1>
