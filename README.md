@@ -10,7 +10,7 @@
             </h3>
         </td>
         <td>
-<!--             <img  src="analyst.gif" alt="Analyst"> -->
+             <img  src="analyst.gif" alt="Analyst">
         </td>
     </tr>
 </table>
