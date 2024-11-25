@@ -3,7 +3,7 @@
         <td width="55%">
             <h1 align="center" style="margin-top: 0;margin-bottom: 0px"> MD. BABUL HASAN (NOYON)</h1>
             <h3 align="center">
-                Intern Software Engineer<br> (Backend & Machine Learning)<br>
+                Software Engineer<br> (Backend & Machine Learning)<br>
             </h3>
 <h3 align="center">
                 Research Assistant <br>(Data Science, Deep Learning)
